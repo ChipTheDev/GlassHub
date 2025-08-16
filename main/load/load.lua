@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ChipTheDev/ImpossibleGlassBridge/refs/heads/main/ImpossibleGlassBridgeV2.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ChipTheDev/GlassHub/refs/heads/main/main/gui/GlassHubV2.lua"))()
